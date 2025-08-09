@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sinan-prvt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
