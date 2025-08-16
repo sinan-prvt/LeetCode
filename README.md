@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sinan-prvt/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
