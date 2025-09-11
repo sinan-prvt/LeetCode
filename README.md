@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sinan-prvt/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sinan-prvt/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sinan-prvt/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sinan-prvt/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
