@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sinan-prvt/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/sinan-prvt/LeetCode/tree/master/0283-move-zeroes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sinan-prvt/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
