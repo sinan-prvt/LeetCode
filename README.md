@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sinan-prvt/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sinan-prvt/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sinan-prvt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sinan-prvt/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/sinan-prvt/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sinan-prvt/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sinan-prvt/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sinan-prvt/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
