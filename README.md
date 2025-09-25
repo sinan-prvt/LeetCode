@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sinan-prvt/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sinan-prvt/LeetCode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sinan-prvt/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sinan-prvt/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/sinan-prvt/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-salary](https://github.com/sinan-prvt/LeetCode/tree/master/0627-swap-salary) |
 | [1390-average-selling-price](https://github.com/sinan-prvt/LeetCode/tree/master/1390-average-selling-price) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
