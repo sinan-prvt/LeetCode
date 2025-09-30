@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sinan-prvt/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
+| [2235-capitalize-the-title](https://github.com/sinan-prvt/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Trie
 |  |
 | ------- |
