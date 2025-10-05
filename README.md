@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sinan-prvt/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sinan-prvt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sinan-prvt/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sinan-prvt/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
 | [2235-capitalize-the-title](https://github.com/sinan-prvt/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -117,4 +119,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
