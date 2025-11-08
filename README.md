@@ -54,14 +54,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sinan-prvt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sinan-prvt/LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sinan-prvt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sinan-prvt/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sinan-prvt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sinan-prvt/LeetCode/tree/master/0100-same-tree) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sinan-prvt/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
