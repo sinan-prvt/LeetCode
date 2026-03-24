@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sinan-prvt/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/sinan-prvt/LeetCode/tree/master/2235-add-two-integers) |
 | [3371-harshad-number](https://github.com/sinan-prvt/LeetCode/tree/master/3371-harshad-number) |
 ## Simulation
 |  |
