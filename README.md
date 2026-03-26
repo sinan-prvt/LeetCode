@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinan-prvt/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/sinan-prvt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sinan-prvt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2235-capitalize-the-title](https://github.com/sinan-prvt/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Trie
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sinan-prvt/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sinan-prvt/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sinan-prvt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
