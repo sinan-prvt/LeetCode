@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/sinan-prvt/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sinan-prvt/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2974-minimum-number-game](https://github.com/sinan-prvt/LeetCode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/sinan-prvt/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sinan-prvt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/sinan-prvt/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/sinan-prvt/LeetCode/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/sinan-prvt/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Number Theory
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
+| [2974-minimum-number-game](https://github.com/sinan-prvt/LeetCode/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/sinan-prvt/LeetCode/tree/master/3028-ant-on-the-boundary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/sinan-prvt/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
