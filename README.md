@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sinan-prvt/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sinan-prvt/LeetCode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sinan-prvt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sinan-prvt/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/sinan-prvt/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sinan-prvt/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sinan-prvt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sinan-prvt/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/sinan-prvt/LeetCode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sinan-prvt/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2974-minimum-number-game](https://github.com/sinan-prvt/LeetCode/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
