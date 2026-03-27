@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinan-prvt/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/sinan-prvt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sinan-prvt/LeetCode/tree/master/0415-add-strings) |
+| [0709-to-lower-case](https://github.com/sinan-prvt/LeetCode/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sinan-prvt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2235-capitalize-the-title](https://github.com/sinan-prvt/LeetCode/tree/master/2235-capitalize-the-title) |
 ## Trie
