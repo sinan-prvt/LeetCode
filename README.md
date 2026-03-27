@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sinan-prvt/LeetCode/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sinan-prvt/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2235-capitalize-the-title](https://github.com/sinan-prvt/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2833-furthest-point-from-origin](https://github.com/sinan-prvt/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sinan-prvt/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sinan-prvt/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/sinan-prvt/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Queue
 |  |
 | ------- |
