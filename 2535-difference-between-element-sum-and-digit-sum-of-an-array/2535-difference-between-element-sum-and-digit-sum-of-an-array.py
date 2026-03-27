@@ -8,4 +8,4 @@ class Solution:
                 digit_sum += num % 10
                 num //= 10
             
-        return element_sum - digit_sum
+        return abs(element_sum - digit_sum)
